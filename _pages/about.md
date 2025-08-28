@@ -23,8 +23,19 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.07*: &nbsp;🎉🎉 We are currently completing a review: Composed Multi-modal Retrieval: A Survey of Approaches and Applications, which is now available on <a href='https://arxiv.org/pdf/2503.01334'> arXiv</a>.
+- *2025.06*: &nbsp;🥳🥳 I graduated from USTC!
+- *2025.06*: &nbsp;🎉🎉 one paper about composed image retrieval, HIT, was accepted to ICCV 2025. 
+- *2025.04*: &nbsp;🎉🎉 One paper about composed image retrieval, MOA, was accepted to SIGIR 2025.
+- *2025.02*: &nbsp;🎉🎉 Our paper Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning has been accepted by CVPR 2025.
+- *2024.02*: &nbsp;🎉🎉 One paper about vision-language alignment, BOOM, was accepted to IEEE TCSVT.
+- *2024.01*: &nbsp;🎉🎉 One paper about image-text retrieval, IMEB, was accepted to IEEE TCSVT.
+- *2023.08*: &nbsp;🎉🎉 Our paper Enhanced Semantic Similarity Learning Framework for Image-Text Matching has been accepted by IEEE TCSVT.
+- *2023.01*: &nbsp;🎉🎉 Our paper Machine Learning-assisted Single Vessel Analysis of Nanoparticle Permeability in Tumour Vasculatures has been accepted by **Nature Nanotechnology**!
+- *2022.04*: &nbsp;🎉🎉 One paper about medical image diagnosis, MGTA, was accepted to IEEE TETCI.
+- *2021.09*: &nbsp;🥳🥳 I started my PhD journey!
+- *2020.08*: &nbsp;⚡⚡ I went to the Institute of Automation at the Chinese Academy of Sciences in Beijing for a research visit.
+- *2019.09*: &nbsp;🥳🥳 I started my postgraduate journey!
 
 # 📝 Publications 
 
