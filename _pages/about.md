@@ -38,6 +38,20 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 - *2019.09*: &nbsp;🥳🥳 I started my postgraduate journey!
 
 # 📝 Publications 
+( <sup>*</sup> **equal contribution** )
+ 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Preprint_CIR.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Composed Multi-modal Retrieval: A Survey of Approaches and Applications**
+
+Kun Zhang<sup>*</sup>, Jingyu Li<sup>*</sup>, **Zhe Li**<sup>*</sup>, Jingjing Zhang<sup>*</sup>, Fan Li, Yandong Liu, Rui Yan, Zihang Jiang, Nan Chen, Lei Zhang, Yongdong Zhang, Zhendong Mao, S Kevin Zhou
+
+*Preprint 2025*
+
+[**Paper**](https://arxiv.org/pdf/2503.01334) 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/ICCV_HIT.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +66,104 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGIR 2025</div><img src='images/SIGIR_MOA.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective**
+
+**Zhe Li**, Lei Zhang, Kun Zhang, Weidong Chen, Yongdong Zhang, Zhendong Mao
+
+*SIGIR 2025*
+
+[**Paper**](https://dl.acm.org/doi/10.1145/3726302.3730074) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/CVPR_DH-Set.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DH-Set: Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning**
+
+Kun Zhang, Jingyu Li, **Zhe Li**, S.Kevin Zhou
+
+*CVPR 2025*
+
+[**Paper**](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_DH-Set_Improving_Vision-Language_Alignment_with_Diverse_and_Hybrid_Set-Embeddings_Learning_CVPR_2025_paper.html) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCSVT_BOOM.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Improving image-text matching with bidirectional consistency of cross-modal alignment**
+
+**Zhe Li**, Lei Zhang, Kun Zhang, Yongdong Zhang, Zhendong Mao
+
+*IEEE TCSVT 2024*
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10445315/) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2024</div><img src='images/TCSVT_IMEB.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fast, accurate, and lightweight memory-enhanced embedding learning framework for image-text retrieval**
+
+**Zhe Li**, Lei Zhang, Kun Zhang, Yongdong Zhang, Zhendong Mao
+
+*IEEE TCSVT 2024*
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10414133) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/TCSVT_ESL.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Enhanced semantic similarity learning framework for image-text matching**
+
+Kun Zhang, Bo Hu, Huatian Zhang, **Zhe Li**, Zhendong Mao
+
+*IEEE TCSVT 2023*
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/10226265) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Nanotechnology</div><img src='images/Nature.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Machine-learning-assisted single-vessel analysis of nanoparticle permeability in tumour vasculatures**
+
+Mingsheng Zhu, Jie Zhuang, **Zhe Li**, Qiqi Liu, Rongping Zhao, Zhanxia Gao, Adam C Midgley, Tianyi Qi, Jingwei Tian, Zhixuan Zhang, Deling Kong, Jie Tian, Xiyun Yan, Xinglu Huang
+
+*Nature Nanotechnology 2023*
+
+[**Paper**](https://www.nature.com/articles/s41565-023-01323-4) 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2022</div><img src='images/TETCI_MGTA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A novel deep learning framework based mask-guided attention mechanism for distant metastasis prediction of lung cancer**
+
+**Zhe Li**<sup>*</sup>, Shuo Wang<sup>*</sup>, He Yu, Yongbei Zhu, Qingxia Wu, Liusu Wang, Zhangjie Wu, Yuncui Gan, Weimin Li, Bensheng Qiu, Jie Tian
+
+*IEEE TETCI 2022*
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/9776544) 
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
