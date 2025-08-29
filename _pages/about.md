@@ -176,9 +176,9 @@ Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongpin
 - *2020.07* Hualu Cup SEED Jiangsu Big Data Competition (Prize: ¥5,000)
 
 # 📖 Educations
-- ***2019.09 - 2025.06***, University of Science and Technology of China (USTC)
-  PhD in Cyberspace Security     Advisor: <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>
-- ***2015.09 - 2019.06***, Shandong University (SDU)
+- ***2019.09 - 2025.06***, University of Science and Technology of China (USTC) \
+  PhD in Cyberspace Security  &ensp;   Advisor: <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>
+- ***2015.09 - 2019.06***, Shandong University (SDU) \
   Bachelor in Electronic Information Engineering
 
 # 📫 Academic Services
