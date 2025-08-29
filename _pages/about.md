@@ -168,7 +168,7 @@ Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongpin
 # 🎖 Honors and Awards
 - *2025.04* Outstanding PhD Graduate of USTC
 - *2024.09* USTC-Anheng Doctoral Scholarship
-- First-class Academic Scholarship of USTC, 2019/20/21/23
+- *2019/20/21/23* First-class Academic Scholarship of USTC
 - *2019.04* Outstanding BS Graduate of SDU
 - *2022.09* Huawei Cloud Marine Data AI Competition—Second Prize (Prize: ¥100,000)
 - *2021.05* 2021 National Underwater Robotics Competition—Second Prize (Prize: ¥30,000)
