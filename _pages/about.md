@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I am Zhe Li (李哲), and I received my Ph.D. degree from the School of Cyber Science and Technology at the University of Science and Technology of China (USTC) in 2025, advised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> (IEEE Fellow) and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>. From 2019 to 2021, I studied at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by Prof. Jie Tian. Prior to that, I obtained my B.S. degree in Electronic Information Engineering from Shandong University (SDU) in 2019.
+Nice to meet you! I am Zhe Li (李哲), and I received my Ph.D. degree from the School of Cyber Science and Technology at the University of Science and Technology of China (USTC) in 2025, advised by  <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> (IEEE Fellow) and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>. From 2019 to 2021, I studied at the Institute of Automation, Chinese Academy of Sciences (CASIA), advised by <a href='https://scholar.google.com/citations?user=xVgKQg0AAAAJ&hl=en'> Prof. Jie Tian</a> (IEEE Fellow) and <a href='https://scholar.google.com/citations?user=XGvcpgsAAAAJ&hl=zh-CN'> Prof. Shuo Wang</a>. Before that, I obtained my B.S. degree in Electronic Information Engineering from Shandong University (SDU) in 2019.
 
 My research interests broadly lie in the fields of Multimodal Artificial Intelligence and Deep Learning, including vision-language alignment, cross-modal retrieval, and retrieval-augmented generation.
 
@@ -25,7 +25,7 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Our survey, *"Composed Multi-modal Retrieval: A Survey of Approaches and Applications"*, is now available on <a href='https://arxiv.org/pdf/2503.01334'> arXiv</a> and currently undergoing final revisions.
 - *2025.06*: &nbsp;🥳🥳 I graduated from USTC!
-- *2025.06*: &nbsp;🎉🎉 one paper about ***composed image retrieval***, HIT, was accepted to ICCV 2025. 
+- *2025.06*: &nbsp;🎉🎉 One paper about ***composed image retrieval***, HIT, was accepted to ICCV 2025. 
 - *2025.04*: &nbsp;🎉🎉 One paper about ***composed image retrieval***, MOA, was accepted to SIGIR 2025.
 - *2025.02*: &nbsp;🎉🎉 Our paper Improving Vision-Language Alignment with Diverse and Hybrid Set-Embeddings Learning has been accepted by CVPR 2025.
 - *2024.02*: &nbsp;🎉🎉 One paper about ***vision-language alignment***, BOOM, was accepted to IEEE TCSVT.
@@ -166,16 +166,42 @@ Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongpin
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.04* Outstanding PhD Graduate of USTC
+- *2024.09* USTC-Anheng Doctoral Scholarship
+- First-class Academic Scholarship of USTC, 2019/20/21/23
+- *2019.04* Outstanding BS Graduate of SDU
+- *2022.09* Huawei Cloud Marine Data AI Competition—Second Prize (Prize: ¥100,000)
+- *2021.05* 2021 National Underwater Robotics Competition—Second Prize (Prize: ¥30,000)
+- *2020.05* 2020 National Underwater Robotics Competition-Third Prize (Prize: ¥20,000)
+- *2020.07* Hualu Cup SEED Jiangsu Big Data Competition (Prize: ¥5,000)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***2019.09 - 2025.06***, University of Science and Technology of China (USTC)
+  PhD in Cyberspace Security     Advisor: <a href='https://scholar.google.com/citations?user=hxGs4ukAAAAJ&hl=zh-CN'> Prof. Yongdong Zhang</a> and  <a href='https://scholar.google.com/citations?user=m-0P8sgAAAAJ&hl=zh-CN'>  Prof. Zhendong Mao</a>
+- ***2015.09 - 2019.06***, Shandong University (SDU)
+  Bachelor in Electronic Information Engineering
 
+# 📫 Academic Services
+
+**Conference Reviewer**
+- CVPR 2023, 2024, 2025
+- ICCV 2023, 2025
+- NIPS 2023, 2024
+- AAAI 2023, 2024, 2025
+- WWW 2025
+
+**Journal Reviewer**
+- IEEE Transactions on Image Processing (T-IP)
+- IEEE Transactions on Neural Network and Learning System (T-NNLS)
+- IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT)
+- IEEE Transactions on Emerging Topics in Computational Intelligence (T-ETCI)
+
+
+<!--
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) 
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
