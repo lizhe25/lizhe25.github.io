@@ -142,7 +142,7 @@ Kun Zhang, Bo Hu, Huatian Zhang, **Zhe Li**, Zhendong Mao
 
 **Machine-learning-assisted single-vessel analysis of nanoparticle permeability in tumour vasculatures**
 
-Mingsheng Zhu, Jie Zhuang, **Zhe Li**, Qiqi Liu, Rongping Zhao, Zhanxia Gao, Adam C Midgley, Tianyi Qi, Jingwei Tian, Zhixuan Zhang, Deling Kong, Jie Tian, Xiyun Yan, Xinglu Huang
+Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongping Zhao, Zhanxia Gao, Adam C Midgley, Tianyi Qi, Jingwei Tian, Zhixuan Zhang, Deling Kong, Jie Tian, Xiyun Yan, Xinglu Huang
 
 *Nature Nanotechnology 2023*
 
