@@ -23,7 +23,7 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 
 
 # 🔥 News
-- *2025.07*: &nbsp;🎉🎉 We are currently completing a review: Composed Multi-modal Retrieval: A Survey of Approaches and Applications, which is now available on <a href='https://arxiv.org/pdf/2503.01334'> arXiv</a>.
+- *2025.07*: &nbsp;🎉🎉 Our survey, *"Composed Multi-modal Retrieval: A Survey of Approaches and Applications"*, is now available on <a href='https://arxiv.org/pdf/2503.01334'> arXiv</a> and currently undergoing final revisions.
 - *2025.06*: &nbsp;🥳🥳 I graduated from USTC!
 - *2025.06*: &nbsp;🎉🎉 one paper about ***composed image retrieval***, HIT, was accepted to ICCV 2025. 
 - *2025.04*: &nbsp;🎉🎉 One paper about ***composed image retrieval***, MOA, was accepted to SIGIR 2025.
@@ -40,7 +40,7 @@ My research interests broadly lie in the fields of Multimodal Artificial Intelli
 # 📝 Publications 
 ( <sup>*</sup> **equal contribution** )
  
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Preprint_CIR.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/Preprint_CIR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Composed Multi-modal Retrieval: A Survey of Approaches and Applications**
@@ -151,7 +151,7 @@ Mingsheng Zhu, Jie Zhuang, **Zhe Li**, Qiqi Liu, Rongping Zhao, Zhanxia Gao, Ada
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2022</div><img src='images/TETCI_MGTA.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TETCI 2022</div><img src='images/TETCI_MGTA.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A novel deep learning framework based mask-guided attention mechanism for distant metastasis prediction of lung cancer**
