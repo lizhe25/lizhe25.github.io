@@ -166,14 +166,14 @@ Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongpin
 
 
 # 🎖 Honors and Awards
-- *2025.04* Outstanding PhD Graduate of USTC
-- *2024.09* USTC-Anheng Doctoral Scholarship
-- *2019/20/21/23* First-class Academic Scholarship of USTC
-- *2019.04* Outstanding BS Graduate of SDU
-- *2022.09* Huawei Cloud Marine Data AI Competition—Second Prize (Prize: ¥100,000)
-- *2021.05* 2021 National Underwater Robotics Competition—Second Prize (Prize: ¥30,000)
-- *2020.05* 2020 National Underwater Robotics Competition-Third Prize (Prize: ¥20,000)
-- *2020.07* Hualu Cup SEED Jiangsu Big Data Competition (Prize: ¥5,000)
+- *2025.04* &ensp; Outstanding PhD Graduate of USTC
+- *2024.09* &ensp; USTC-Anheng Doctoral Scholarship
+- *2019/20/21/23* &ensp; First-class Academic Scholarship of USTC
+- *2019.04* &ensp; Outstanding BS Graduate of SDU
+- *2022.09* &ensp; Huawei Cloud Marine Data AI Competition—Second Prize (Prize: ¥100,000)
+- *2021.05* &ensp; 2021 National Underwater Robotics Competition—Second Prize (Prize: ¥30,000)
+- *2020.05* &ensp; 2020 National Underwater Robotics Competition-Third Prize (Prize: ¥20,000)
+- *2020.07* &ensp; Hualu Cup SEED Jiangsu Big Data Competition (Prize: ¥5,000)
 
 # 📖 Educations
 - ***2019.09 - 2025.06***, University of Science and Technology of China (USTC) \
