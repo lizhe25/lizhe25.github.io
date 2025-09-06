@@ -172,7 +172,7 @@ Mingsheng Zhu<sup>*</sup>, Jie Zhuang<sup>*</sup>, **Zhe Li**, Qiqi Liu, Rongpin
 - *2019.04* &nbsp; Outstanding BS Graduate of SDU
 - *2022.09* &nbsp; Huawei Cloud Marine Data AI Competition—Second Prize (Prize: ¥100,000)
 - *2021.05* &nbsp; 2021 National Underwater Robotics Competition—Second Prize (Prize: ¥30,000)
-- *2020.05* &nbsp; 2020 National Underwater Robotics Competition-Third Prize (Prize: ¥20,000)
+- *2020.05* &nbsp; 2020 National Underwater Robotics Competition—Third Prize (Prize: ¥20,000)
 - *2020.07* &nbsp; Hualu Cup SEED Jiangsu Big Data Competition (Prize: ¥5,000)
 
 # 📖 Educations
