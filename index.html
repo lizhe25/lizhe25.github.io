@@ -16,25 +16,25 @@
 <style>
 .pub-list {
   margin: 0;
-  padding-left: 0;            /* 黑点顶格 */
-  list-style-type: disc;      /* 黑点样式 */
-  list-style-position: outside; /* 黑点在外侧，正文顶格 */
+  padding-left: 0;            /* 去掉左缩进，让正方形顶格 */
+  list-style-type: square;    /* 使用小正方形代替黑点 */
+  list-style-position: outside; /* 让小正方形在外侧，正文顶格 */
 }
 
 .pub-list li {
-  margin-bottom: 20px;        /* 论文之间的间距 */
+  margin-bottom: 20px;        /* 每篇论文之间的间距 */
   line-height: 1.6;           /* 行距 */
-  padding-left: 1.8em;        /* 整体缩进，黑点和正文有间距 */
+  padding-left: 1.8em;        /* 整体缩进，保持正方形和正文之间有间距 */
 }
 
 .pub-list li p {
   margin: 4px 0;              /* 每行之间的间距 */
 }
 
-/* 控制黑点与文字的间距 */
+/* 控制小正方形和文字的间距 */
 .pub-list li::marker {
-  font-size: 0.9em;            /* 黑点大小 */
-  padding-right: 0.6em;        /* 黑点和文字的间距 */
+  font-size: 1.0em;            /* 小正方形的大小 */
+  padding-right: 0.5em;        /* 小正方形和文字的间距 */
 }
 </style>
 
