@@ -17,7 +17,7 @@
 .pub-list {
   margin: 0;
   padding-left: 0;            /* 去掉左缩进，让正方形顶格 */
-  list-style-type: square;    /* 使用小正方形代替黑点 */
+  list-style-type: none;      /* 移除默认的小正方形 */
   list-style-position: outside; /* 让小正方形在外侧，正文顶格 */
 }
 
@@ -31,12 +31,18 @@
   margin: 4px 0;              /* 每行之间的间距 */
 }
 
-/* 控制小正方形和文字的间距 */
-.pub-list li::marker {
-  font-size: 1.0em;            /* 小正方形的大小 */
-  padding-right: 0.2em;        /* 小正方形和文字的间距 */
+/* 使用 ::before 来模拟小正方形 */
+.pub-list li::before {
+  content: "";                /* 内容为空 */
+  display: inline-block;
+  width: 0.6em;               /* 小正方形的宽度 */
+  height: 0.6em;              /* 小正方形的高度 */
+  background-color: black;    /* 小正方形的颜色 */
+  margin-right: 0.4em;        /* 小正方形和文字的间距 */
+  vertical-align: middle;     /* 保持垂直对齐 */
 }
 </style>
+
 
 
 <script>
