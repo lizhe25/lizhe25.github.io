@@ -25,23 +25,27 @@
   margin-bottom: 20px;        /* 每篇论文之间的间距 */
   line-height: 1.6;           /* 行距 */
   padding-left: 1.8em;        /* 整体缩进，保持正方形和正文之间有间距 */
+  display: flex;              /* 使 li 成为 flex 容器 */
+  align-items: center;        /* 让黑正方形和文字垂直居中对齐 */
 }
 
 .pub-list li p {
   margin: 4px 0;              /* 每行之间的间距 */
+  display: inline;            /* 保证文字在同一行内显示 */
 }
 
 /* 使用 ::before 来模拟小正方形 */
 .pub-list li::before {
   content: "";                /* 内容为空 */
   display: inline-block;
-  width: 0.4em;               /* 小正方形的宽度（可以微调） */
-  height: 0.4em;              /* 小正方形的高度（可以微调） */
+  width: 0.5em;               /* 小正方形的宽度 */
+  height: 0.5em;              /* 小正方形的高度 */
   background-color: black;    /* 小正方形的颜色 */
-  margin-right: 0.5em;        /* 小正方形和文字的间距 */
+  margin-right: 0.4em;        /* 小正方形和文字的间距 */
   vertical-align: middle;     /* 保持垂直对齐 */
 }
 </style>
+
 
 
 
