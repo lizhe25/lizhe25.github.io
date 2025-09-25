@@ -16,27 +16,28 @@
 <style>
 .pub-list {
   margin: 0;
-  padding-left: 0;             /* 去掉默认缩进，让黑点顶格 */
-  list-style-type: disc;       /* 黑点样式 */
-  list-style-position: outside;
+  padding-left: 0;            /* 黑点顶格 */
+  list-style-type: disc;      /* 黑点样式 */
+  list-style-position: outside; /* 黑点在外侧，正文顶格 */
 }
 
 .pub-list li {
-  margin-bottom: 20px;         /* 论文之间的间距 */
-  line-height: 1.6;            /* 行距，推荐 1.5~1.6 */
-  padding-left: 1.8em;         /* 整体缩进，保证文字和黑点对齐 */
-  text-indent: -1.8em;         /* 第一行顶格，黑点不被推开 */
+  margin-bottom: 20px;        /* 论文之间的间距 */
+  line-height: 1.6;           /* 行距 */
+  padding-left: 1.8em;        /* 整体缩进，黑点和正文有间距 */
 }
 
 .pub-list li p {
-  margin: 4px 0;               /* 一篇论文内部三行之间的间距 */
+  margin: 4px 0;              /* 每行之间的间距 */
 }
 
-/* 黑点样式（大小可调） */
+/* 控制黑点与文字的间距 */
 .pub-list li::marker {
   font-size: 0.9em;            /* 黑点大小 */
+  padding-right: 0.6em;        /* 黑点和文字的间距 */
 }
 </style>
+
 
 <script>
    function showPubs(id) {
